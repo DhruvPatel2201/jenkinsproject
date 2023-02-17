@@ -5,6 +5,7 @@
 	<style>
 	body {
 		background-color: white;
+		
 		text-align: center;
 		padding: 50px;
 		font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
